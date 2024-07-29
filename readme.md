@@ -1,14 +1,10 @@
-Aqui está a versão atualizada do README com a inclusão dos botões superiores "Home" e "Sobre mim":
-
----
-
 # Meu Primeiro Site
 
-Bem-vindo ao meu primeiro site! Este site foi desenvolvido como uma introdução à criação de websites utilizando HTML e CSS.
+Bem-vindo ao meu primeiro site versão atualizado! Este site foi desenvolvido como uma introdução à criação de websites utilizando HTML e CSS.
 
 ## Link para Acessar
 
-[Acesse o site aqui](https://primeiro-site-lilac.vercel.app/)
+https://primeiro-site-atualizado.vercel.app/index.html
 
 ## Sobre o Site
 
